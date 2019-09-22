@@ -119,10 +119,7 @@ background-attachment: fixed;
   
 }
 
-.hr1{ 
-    box-shadow: 0 0 10px grey;
-    opacity:0.25;
-}
+
 .fa-phone{
     margin-left: 3px;
 
@@ -190,4 +187,9 @@ b{
     font-size: larger;
     font-weight: bold;
 
+}
+.mainhr{
+    border: none;
+    height: 2px;
+    background: linear-gradient(to left, #ff2c00, #ff3a00, #ff4600, #ff5000, #ff5900, #ff6b00, #ff7b00, #ff8a00, #ffa400, #ffbf00, #ffda00, #fff400);
 }
