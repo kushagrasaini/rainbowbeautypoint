@@ -1,0 +1,62 @@
+*{
+    margin:0;
+}
+
+html,body{
+    height:100%;
+  
+}
+body{
+    background-image: url(image\ 3.jpg);
+    background-size: 55%;
+    height:100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-attachment: fixed;
+}  
+.top-header{ 
+    background-image: linear-gradient(to left, #ff2c00, #ff3a00, #ff4600, #ff5000, #ff5900, #ff6b00, #ff7b00, #ff8a00, #ffa400, #ffbf00, #ffda00, #fff400);
+    background-size: cover; 
+    margin-top: -6%;
+    margin-right: 9%;
+    margin-left: 1% ;
+    margin-bottom: 4%;
+    padding-left: 63%;
+    color: white;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    border: 0.5px;
+    border-radius: 8px;
+   
+}
+img{  
+      height:115px;
+      border:2px solid black;
+      border-radius: 3%;
+      border-image: linear-gradient(to left, #ff2c00, #ff3a00, #ff4600, #ff5000, #ff5900, #ff6b00, #ff7b00, #ff8a00, #ffa400, #ffbf00, #ffda00, #fff400);
+      border-image-width: 100%; 
+      box-shadow: 0 0 5px rgb(0, 0, 0); 
+      margin-top: 1%;
+      margin-left: 10px;   
+}  
+.background{
+   
+}
+.hr1{ 
+    box-shadow: 0 0 10px grey;
+    opacity:0.25;
+}
+
+.box{
+    box-shadow: 0 0 15px black;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    height:75%;
+    margin:20%;
+
+}
+footer{
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+    height:45%;
+
+} 
+header{
+    background: white;
+}
